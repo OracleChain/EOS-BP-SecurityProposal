@@ -49,6 +49,7 @@ A EOS-BP security proposal,which is conducted by Qihu360 and OracleChain.(A more
 
 <h2 id="3">Security Topology  网络拓扑</h2>
 
+![](https://github.com/OracleChain/EOS-BP-SecurityProposal/blob/master/pics/topology_v8.png?raw=true)
     
 <h2 id="4">Modules  模块分类</h2>
 
