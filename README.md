@@ -11,7 +11,7 @@ A EOS-BP security proposal,which is conducted by Qihu360 and OracleChain.(A more
 + [API node  API节点配置](#7)
 + [P2P interface  API节点配置](#8)
 + [API interface  API节点配置](#9)
-+ [TANKS  鸣谢](#10)
++ [SPECIAL TANKS  特别鸣谢](#10)
 
 ------------------------------
 
@@ -107,4 +107,4 @@ A EOS-BP security proposal,which is conducted by Qihu360 and OracleChain.(A more
 <h2 id="7">API node  API节点配置</h2>
 <h2 id="8">P2P interface  API节点配置</h2>
 <h2 id="9">API interface  API节点配置</h2>
-<h2 id="10">TANKS  鸣谢</h2>
+<h2 id="10">SPECIAL TANKS  特别鸣谢</h2>
