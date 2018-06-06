@@ -1,5 +1,5 @@
 # EOS-BP-SecurityProposal
-A EOS-BP security proposal,which is conducted by Qihu360 and OracleChain.(A more practical version for all bps would be detailed soon...)    
+A EOS-BP security proposal,which is conducted by Qihu360 and OracleChain.(A more practical version for all bps would be detailed and coming soon...)    
 
 # Menu/目录
 + [Background  背景介绍](#1)
